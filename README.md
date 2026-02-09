@@ -74,3 +74,13 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <h3>🔥 Actividad en GitHub</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyjers&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  
+  <br/> <br/>
+  
+  <h4>👀 Visitas al Perfil</h4>
+  <img src="https://profile-counter.glitch.me/soyjers/count.svg" alt="Visitor Count" />
+</div>
