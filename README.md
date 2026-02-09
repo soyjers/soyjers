@@ -34,7 +34,7 @@
 
 | Proyecto | Descripción Técnica | Stack & Tools |
 | :--- | :--- | :--- |
-| **JD ThreadInk 🇺🇸**<br>*(California, USA)* | **Brand Landing & Digital Catalog.**<br>Sitio web corporativo con catálogo de productos, tarjeta de presentación digital (vCard) y sistema de internacionalización (i18n) inglés/español cargado dinámicamente. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=Hostinger&logoColor=white) |
+| **JD ThreadInk 🇺🇸**<br>*(California, USA)* | **Brand Landing & Digital Catalog.**<br>Sitio web corporativo con catálogo digital, sistema de internacionalización (i18n Inglés/Español) basado en JSON y Tarjeta de Presentación Digital (vCard). | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=Hostinger&logoColor=white) |
 | **AIRCET 🇨🇴**<br>*(Bogotá, COL)* | **Corporate Identity & Web.**<br>Rebranding digital completo, diseño de logotipo y desarrollo de sitio web informativo optimizado para SEO local y conversión de clientes. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-8BC34A?style=flat-square&logo=google-search-console&logoColor=white) ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat-square&logo=namecheap&logoColor=white) |
 
 ---
@@ -76,12 +76,13 @@
 <div align="center">
   <h3>🔥 Actividad en GitHub</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyjers&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  
+  <br/> <br/>
+  
+  <h4>👀 Visitas al Perfil</h4>
+  <img src="https://profile-counter.glitch.me/soyjers/count.svg" alt="Visitor Count" />
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/soyjers">
-    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
