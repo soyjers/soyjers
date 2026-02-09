@@ -1,71 +1,86 @@
 <div align="center">
- 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Juan+Esteban+(Jers)+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Fintech+Operations+Specialist+%F0%9F%92%B3;Founder+%40+Jers+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Juan+Esteban+Ruiz;Full+Stack+Developer+%F0%9F%92%BB;Fintech+Operations+%40+Mercado+Pago;Founder+%40+Jers+Web+Solutions" alt="Typing SVG" />
   </a>
+</div>
 
-  <h3> Construyendo experiencias web escalables desde Colombia para el mundo 🌍</h3>
-  
+<div align="center">
+  <h3>🚀 Construyendo el futuro de la web desde Colombia</h3>
   <p>
-    <a href="https://linkedin.com/in/soyjers" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:jersdevops@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/soyjers">
-      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    Desarrollador con <b>+5 años de experiencia</b> fusionando código robusto (MERN Stack) con operaciones críticas en el sector <b>Fintech</b>.
   </p>
+
+  <a href="https://linkedin.com/in/soyjers" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jersdevops@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://jerswebsolutions.com" target="_blank"> <img src="https://img.shields.io/badge/Web-Jers_Solutions-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
 </div>
 
----
+<br />
 
-### 👨‍💻 Sobre mí
+<h2 align="center">⚡ Experiencia Destacada</h2>
 
-Soy un **Desarrollador Full Stack** con una trayectoria poco convencional: empecé a escribir código a los 15 años y hoy combino esa pasión técnica con experiencia operativa real en el sector **Fintech** (Mercado Pago).
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>💳 Fintech Ops</h3>
+      <p><b>Mercado Pago / Concentrix</b></p>
+      <p>Gestión de tarjetas corporativas, análisis de riesgos y soporte Nivel 2 para transacciones críticas.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Full Stack Dev</h3>
+      <p><b>Freelance Internacional</b></p>
+      <p>Desarrollo de E-commerce (JD ThreadInk 🇺🇸) y sitios corporativos (AIRCET 🇨🇴) con soporte continuo.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Infraestructura</h3>
+      <p><b>DevOps Básico</b></p>
+      <p>Despliegue real en producción, gestión de DNS en Namecheap y configuración de servidores.</p>
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Actualmente:** Liderando el desarrollo e-commerce para clientes internacionales en **Jers Web Solutions**.
-- 💡 **Mi Superpoder:** Traducir requerimientos complejos de negocio en interfaces de usuario limpias y funcionales.
-- 💳 **Experiencia Fintech:** Gestión de incidencias críticas, seguridad transaccional y soporte Nivel 2.
-- ⚡ **Stack Favorito:** MERN (MongoDB, Express, React, Node).
+<br />
 
----
-
-### 🛠️ Arsenal Tecnológico
+<h2 align="center">🛠️ Stack Tecnológico</h2>
 
 <div align="center">
 
-| **Frontend** | **Backend & DB** | **Herramientas & Diseño** |
-|:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=Hostinger&logoColor=white" />
 
-</div>
-
----
-
-### 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **JD ThreadInk 🇺🇸** | **E-commerce Platform (California).** Desarrollo completo de tienda online, gestión de inventario, hosting y soporte técnico mensual continuo. | `React` `Node` `AWS` `Stripe` |
-| **AIRCET 🇨🇴** | **Corporate Identity & Web.** Rebranding digital y desarrollo de sitio web corporativo optimizado para SEO y conversión de leads. | `JS` `HTML/CSS` `SEO` `Figma` |
-| **Fintech Ops** | **Internal Tools.** Scripts y automatizaciones para la gestión de incidencias y análisis de logs en operaciones financieras. | `Python` `Bash` `Excel` |
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyjers&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyjers&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=3b82f6" height="180" alt="languages graph"  />
 </div>
 
 <br/>
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=soyjers&label=Profile%20Views&color=3b82f6&style=flat-square" alt="soyjers" /> 
+<h2 align="center">📊 Métricas de Desarrollo</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyjers&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyjers&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=3b82f6" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=soyjers&label=Profile+Views&color=3b82f6&style=flat-square" />
 </div>
