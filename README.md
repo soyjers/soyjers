@@ -78,9 +78,4 @@
 <div align="center">
   <h3>🔥 Actividad en GitHub</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyjers&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-  
-  <br/> <br/>
-  
-  <h4>👀 Visitas al Perfil</h4>
-  <img src="https://profile-counter.glitch.me/soyjers/count.svg" alt="Visitor Count" />
 </div>
